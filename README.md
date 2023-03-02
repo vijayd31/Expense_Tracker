@@ -1,3 +1,9 @@
+#Expense Tracker App
+
+An expense tracker app that can help you take control of your finances. With just a few taps, you can track all of your expenses.This app can also help you set up a budget, monitor your spending.
+
+I created this app as a task for REACTJS training conducted by BETTER TOMORROW team in our college.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
