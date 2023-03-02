@@ -1,4 +1,4 @@
-#Expense Tracker App
+# Expense Tracker App
 
 An expense tracker app that can help you take control of your finances. With just a few taps, you can track all of your expenses.This app can also help you set up a budget, monitor your spending.
 
